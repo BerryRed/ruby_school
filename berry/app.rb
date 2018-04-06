@@ -1,3 +1,3 @@
 name = "Varvara"
 
-puts "Berry top tyan ohhhh, #{name}"
+puts "Berry top tyan ohhhh (no), #{name}"
